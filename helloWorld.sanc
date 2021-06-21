@@ -1,0 +1,9 @@
+#Hello World Program
+PRINT("Hello World")
+
+FUN test(a,b) -> a + b
+
+FOR i = 0  TO 5 THEN
+    PRINT("Hello")
+    PRINT(test(10,20))
+END

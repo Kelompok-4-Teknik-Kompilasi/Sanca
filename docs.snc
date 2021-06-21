@@ -1,0 +1,25 @@
+#Sanca Syntax
+	##REPL
+	python sanca.py
+	sanca > 1 + 1
+	##Run Text
+	python sanca.py
+	sanca > RUN("filename")
+	PRINT("Hello")
+	"Hello"
+
+#Sanca Comments
+
+#Sanca Variables
+#Sanca Data Types
+#Sanca Operators
+#Sanca Strings
+#Sanca Math
+#Sanca Booleans
+#Sanca IF ELSE
+#Sanca WHILE LOOP
+#Sanca FOR LOOP
+#Sanca Break/Continue
+#Sanca List
+#Sanca Function
+#Sanca Function Parameters
